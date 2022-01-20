@@ -5,7 +5,7 @@ proxy simple
 Скачиваем скрипт 
 
 ```
-wget https://github.com/Shohrat029/Proxy/shadowsocks-simple-install.sh
+wget https://github.com/Shohrat029/Proxy/blob/main/shadowsocks-simple-install.sh
 ```
 
 Устанавливаем права на запуск
